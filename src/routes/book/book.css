@@ -1,0 +1,18 @@
+.page-container{
+  background: #fff;
+  padding: 10px;
+}
+.book-card--body {
+  display: flex;
+  margin-top: 50px;
+}
+.book-card--thumbnail {
+  width: 25%;
+  padding-right: 15px;
+}
+.book-card--description {
+  width: 75%;
+}
+.book-card--thumbnail img {
+  width: 100%;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chitragupt",
+  "version": "1.0.0",
+  "description": "A framework for injecting Popup, Interstitial and Inline Widgets on demand",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajan Singh",
+  "license": "ISC"
+}
