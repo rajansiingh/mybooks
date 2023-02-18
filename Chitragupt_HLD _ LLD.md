@@ -26,7 +26,7 @@
 1) Utils 
 - helper functions 
 
-![](folder_structure.png)
+![](folder_sturcture.png)
 
 ![](flow_diagram.png)
 
